@@ -1,0 +1,11 @@
+Wikan Setiaji
+1606884413
+
+Pertanyaan 1: Url bisa dibuka
+Pertanyaan 2: Error bad request, karena parameter required flyHour tidak diiisi
+Pertanyaan 3: Data pilot muncul
+Pertanyaan 4: Data pilot tidak muncul karena nomor plat tidak ditemukan dan data pilot yang dikirim ke template adalah null. Data hanya disimpan di memori
+Pertanyaan 5: Data pilot muncul karena fungsi akan menampilkan semua data pilot di memori
+Pertanyaan 6: Semua data pilot muncul karena fungsi akan menampilkan semua data pilot di memori
+
+Untuk nomor 3 write-up id diganti license sesuai dengan kata ibu Ave
